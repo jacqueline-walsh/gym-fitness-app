@@ -1,0 +1,8 @@
+{
+  "short_name": "Fitness App",
+  "name": "Golds Fitness Gym",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
