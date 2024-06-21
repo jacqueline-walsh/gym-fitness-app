@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/gym-fitness-app/static/css/main.3fa6ff78.css",
-    "main.js": "/gym-fitness-app/static/js/main.34521a19.js",
-    "static/media/banner.png": "/gym-fitness-app/static/media/banner.5209b5e92a864ca0c615.png",
-    "static/media/gym.png": "/gym-fitness-app/static/media/gym.6e701417c428e2fbc267.png",
-    "index.html": "/gym-fitness-app/index.html",
-    "main.3fa6ff78.css.map": "/gym-fitness-app/static/css/main.3fa6ff78.css.map",
-    "main.34521a19.js.map": "/gym-fitness-app/static/js/main.34521a19.js.map"
+    "main.css": "/static/css/main.3fa6ff78.css",
+    "main.js": "/static/js/main.5361bc35.js",
+    "static/media/banner.png": "/static/media/banner.5209b5e92a864ca0c615.png",
+    "static/media/gym.png": "/static/media/gym.6e701417c428e2fbc267.png",
+    "index.html": "/index.html",
+    "main.3fa6ff78.css.map": "/static/css/main.3fa6ff78.css.map",
+    "main.5361bc35.js.map": "/static/js/main.5361bc35.js.map"
   },
   "entrypoints": [
     "static/css/main.3fa6ff78.css",
-    "static/js/main.34521a19.js"
+    "static/js/main.5361bc35.js"
   ]
 }
