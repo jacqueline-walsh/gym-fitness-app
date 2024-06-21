@@ -1,5 +1,5 @@
 import React from 'react';
-import { HashRouter as Route, Routes } from 'react-router-dom';
+import { Route, Routes } from 'react-router-dom';
 import { Box } from '@mui/material';
 
 import './App.css';
